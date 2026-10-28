@@ -7,7 +7,6 @@ CTO at [Shamiri](https://www.shamiri.institute) in Nairobi, Kenya. I lead a team
 - **shamiriAI**: LLM evaluation that scores therapy session fidelity and flags safety concerns in code-switched English, Swahili and Sheng.
 - **[whisper-shamiri-200](https://huggingface.co/shamiri-ai/whisper-shamiri-200)**: Whisper Small fine-tuned on Swahili and English code-switched therapy audio.
 - **Shamiri Digital Hub**: Next.js and PostgreSQL. I migrated it from Prisma to Drizzle and built a k6, Playwright and Lighthouse load-test setup. In load tests, median page load fell from 1.08 s to 63 ms and one server handled 5.4x more traffic.
-- **Rafi**: a React Native and Expo mobile app, with CI/CD that cut releases from days to 1 to 2 hours.
 
 Before Shamiri: Ilara Health (Head of Technology, Product Manager) and PayGo Energy (Software Engineer, OpenPAYGo token and LPG meter systems).
 
